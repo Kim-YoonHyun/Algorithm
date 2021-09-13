@@ -2,7 +2,7 @@
 password.txt
 질문모음.md
 *.pdf
-
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
